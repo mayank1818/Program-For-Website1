@@ -1,0 +1,132 @@
+.navi li{
+    display : inline-block;
+}
+.navi a{
+    padding: 100px 80px;
+    color: blue;
+    font-size: 20px;
+}
+.imges{
+    display: flex;
+    width: 100%;
+    margin: auto;
+}
+h4{
+    display: flex;
+}
+.pic:hover .name{
+    display: flex;
+}
+.name{
+    display: none;
+    position: absolute;
+    top: 70%;
+    left: 45%;
+    color: aliceblue;
+    font-size: 20px;
+    font-family: Arial;
+}
+.i1{
+    display: flex;
+    border-radius: 100%;
+    padding: 6px;
+    width: 250px;
+    justify-content: center;
+    margin: auto;
+}
+.j1{
+    color: lightgreen;
+    font-size: 25px;
+    font-family: Arial;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.j2{
+    color: lightgreen;
+    font-size: 25px;
+    font-family: Arial;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-self: center;
+}
+
+.j3{
+    color: lightgreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.j4 h4{
+    color: lightgreen;
+    font-size: 25px;
+    font-family: Arial;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-self: center;
+}
+.pic1{
+    display: flex;
+    margin: auto;
+    height: 300px;
+    width: 400px;
+    justify-content: center;
+    align-items: center;
+}
+.d1{
+    display: flex;
+    margin: auto;
+    width: 60%;
+    padding: 2%;
+    justify-content: left;
+    align-items: left;
+    color: lightgreen;
+    font-size: 25px;
+    font-family: Arial;
+}
+    
+.pic2{
+    display: flex;
+    margin: auto;
+    height: 300px;
+    width: 360px;
+    justify-content: center;
+    align-items: center;
+}
+.d2{
+    display: flex;
+    margin: auto;
+    width: 56%;
+    justify-content: left;
+    align-items: left;
+    color: lightgreen;
+    font-size: 25px;
+    font-family: Arial;
+}
+.j5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: lightgreen;
+}
+.j6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: lightgreen;
+    font-size: 25px;
+    font-family: Arial;
+}
+.gallery  img
+{
+    height: 300px;
+    width: 400px;
+    display: flex;
+    padding: 0 5px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
